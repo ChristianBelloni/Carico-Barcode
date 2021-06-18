@@ -1,0 +1,18 @@
+QLabel{
+	font-size: 15px;
+}
+
+LineEdit{
+	font-size:17px;
+}
+
+QListWidget{
+	font-size:15px;
+}
+
+QTableWidget{
+	font-size:15px;
+}
+QPushButton{
+	
+}
